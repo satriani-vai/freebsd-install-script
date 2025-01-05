@@ -15,14 +15,28 @@ This script automates the installation of FreeBSD with support for:
 - **Multi-language support**: The script is available in English, German, and Russian.
 
 ## Requirements
-- A FreeBSD installation medium (USB, CD, etc.)
 - Root access
 - Basic knowledge of FreeBSD and RAID configurations
+
+---
+
+## Optional: FreeBSD Installation on Hetzner
+
+If you are installing FreeBSD on **Hetzner** servers, you might find the following repository useful:
+
+### [Install FreeBSD on Hetzner](https://github.com/satriani-vai/Install_FreeBSD_on_Hetzner)
+
+This repository provides:
+- Step-by-step instructions for installing FreeBSD on Hetzner hardware.
+- Guidance on configuring network settings, RAID, and other system-specific options.
+- Useful scripts and commands tailored for Hetzner servers.
+
+While this script is designed for general FreeBSD installations, the Hetzner-specific guide can be a helpful resource for users working with Hetzner hardware.
 
 ## Usage
 1. Download the script:
    ```bash
-   wget https://raw.githubusercontent.com/your-username/freebsd-install-script/main/freebsd_install.sh
+   fetch https://raw.githubusercontent.com/satriani-vai/freebsd-install-script/main/freebsd_install.sh
    ```
 2. Make the script executable:
    ```bash
