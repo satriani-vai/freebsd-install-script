@@ -8,7 +8,7 @@
 #
 # License: 2-Clause BSD License
 #
-# Copyright (c) [Jahr], [Dein Name oder Organisation]
+# Copyright (c) 2025
 # All rights reserved.
 #
 # Redistribution and use in source and binary forms, with or without modification,
